@@ -9,3 +9,11 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 Are there different risk factors per age group, which would indicate different prevention strategies?
 
 BMI, Age, Rural/Urban, see if there's different risk factors/prevention for different groups
+
+
+## Approaches:
+Regression to find composition and correlation of different variables
+
+Based on significance of variables, create a model to predict stroke or not
+
+
