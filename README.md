@@ -16,4 +16,6 @@ Regression to find composition and correlation of different variables
 
 Based on significance of variables, create a model to predict stroke or not
 
+## Possible Problem:
+The occurance of stroke overwhelms the lack of stroke by an order of magnitude.
 
