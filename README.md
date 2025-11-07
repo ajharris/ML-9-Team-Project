@@ -1,10 +1,3 @@
----
-title: "ML-9 Team Project - Stroke Prediction Using Machine Learning"
-author: "<Our Names>"
-bibliography: references.bib
----
-
-
 # ML-9 Team Project
 
 After reviewing several datasets, we have decided to investigate the Stroke Prediction one. We are investigating whether a difference can be found by ML between male and female subjects.
@@ -26,3 +19,10 @@ Based on significance of variables, create a model to predict stroke or not
 ## Possible Problem:
 The occurance of stroke overwhelms the lack of stroke by an order of magnitude.
 
+
+
+---
+title: "ML-9 Team Project - Stroke Prediction Using Machine Learning"
+author: "<Our Names>"
+bibliography: references.bib
+---
