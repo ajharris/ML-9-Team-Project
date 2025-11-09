@@ -30,7 +30,7 @@ Machine learning models (ML) including Random Forests and Deep Learning (DL) mod
 
 # Techniques & Technologies
 
-# Key Findings & Setup Instructions
+## Key Findings & Setup Instructions
 
 After reviewing several datasets, we have decided to investigate the Stroke Prediction one. We are investigating whether a difference can be found by ML between male and female subjects.
 
