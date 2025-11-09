@@ -23,10 +23,10 @@ This project addresses that gap by:
 
 Machine learning models (ML) including Random Forests and Deep Learning (DL) models like Convolutional Neural Networks have been successfully used previously for stroke prevention [2,3]. The goals of the current project are to explore ML and DL models using a diverse and large-scale dataset to predict the occurrence of stroke while achieving high sensitivity and specificity.
 
-The specific objectives of the project include:
+<!-- The specific objectives of the project include:
 1. 
 2.
-3.
+3. -->
 
 # Techniques & Technologies
 
