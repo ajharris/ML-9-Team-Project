@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Placeholder CSL file named ieee.csl
+  This is a minimal skeleton to let Quarto find a CSL file. It is NOT the
+  official IEEE CSL style. Please replace this file with the official
+  `ieee.csl` (for example, download from https://www.zotero.org/styles/ieee
+  or from the Citation Style Language repository) to get correct IEEE
+  formatting.
+-->
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>IEEE (placeholder)</title>
+    <id>http://www.zotero.org/styles/ieee</id>
+    <link href="http://www.zotero.org/styles/ieee" rel="self"/>
+    <author>
+      <name>Placeholder</name>
+    </author>
+    <category citation-format="numeric"/>
+  </info>
+  <!-- Minimal style: numeric citation as [1], bibliography uses basic layout -->
+  <citation>
+    <layout prefix="[" suffix="]">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout>
+      <text variable="author"/>
+      <text variable="title" prefix=", "/>
+      <text variable="issued" prefix=", "/>
+    </layout>
+  </bibliography>
+</style>
